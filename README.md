@@ -1,10 +1,7 @@
 Fractal Landscape Generator
 ================================
 
-Online demo: http://qiao.github.com/fractal-terrain-generator/demo/
-
-This program is based on the Diamond-Square algorithm.  
-You may check out http://gameprogrammer.com/fractal.html for a detailed description.
+# [View the Demo](/index.html) 
 
 Usage
 -----
